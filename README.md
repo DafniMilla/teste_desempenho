@@ -35,17 +35,6 @@ O script irá:
 - Tempo de busca e carregamento de resultados
 - Tempo de carregamento de páginas de repositórios
 
-## 📝 Personalização
-
-Você pode modificar o arquivo `teste_desempenho_github.py` para:
-- Adicionar mais testes
-- Mudar os repositórios testados
-- Alterar os termos de busca
-- Executar em modo headless (sem abrir o navegador)
-
-Para executar em modo headless, descomente a linha no código:
-```python
-chrome_options.add_argument('--headless')
 ```
 
 ## 📄 Resultados
